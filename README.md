@@ -1,2 +1,3 @@
-# Pytorch-secondstep
-book
+# 파이토치 첫걸음
+
+_Author: 최건호_
